@@ -24,6 +24,9 @@ L'**ONCFM** (organisation de lutte contre le faux-monnayage) dispose d'une machi
 ### Limites
 Trois billets proches de la frontière vrai/faux restent mal classés par tous les modèles supervisés : la limite vient des données, pas du choix d'algorithme. Le seuil de décision pourrait être ajusté au coût réel d'une erreur.
 
+<img src="images/Capture d'écran 2026-08-11 103001.png" width="500px"><img src="images/Capture d'écran 2026-08-11 103054.png" width="500px">
+<img src="images/Capture d'écran 2026-08-11 103113.png" width="500px"><img src="images/Capture d'écran 2026-08-11 103133.png" width="500px">
+
 ---
 📂 Dossier complet sur mon portfolio : [remydaura.github.io/p12.html](https://remydaura.github.io/p12.html)
 
