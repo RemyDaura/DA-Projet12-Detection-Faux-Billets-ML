@@ -2,8 +2,8 @@
 Script de production - Detection de faux billets (ONCFM)
 ============================================================
 
-Ce script charge le modele entraine (pipeline complet : imputation +
-standardisation + Random Forest) et permet de predire si un ou plusieurs
+Ce script charge le modele entraine (pipeline complet : imputation
+KNNImputer + standardisation + regression logistique) et permet de predire si un ou plusieurs
 billets sont vrais ou faux, a partir de leurs caracteristiques geometriques.
 
 PREREQUIS (2 fichiers doivent etre dans le meme dossier) :
